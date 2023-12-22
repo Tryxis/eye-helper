@@ -1,0 +1,10 @@
+C:\Users\David.Butterworth\OneDrive - Advanced\Documents\Eye Helper\bin\Debug\Eye Helper.exe.config
+C:\Users\David.Butterworth\OneDrive - Advanced\Documents\Eye Helper\bin\Debug\Eye Helper.exe
+C:\Users\David.Butterworth\OneDrive - Advanced\Documents\Eye Helper\bin\Debug\Eye Helper.pdb
+C:\Users\David.Butterworth\OneDrive - Advanced\Documents\Eye Helper\obj\Debug\Eye Helper.csproj.AssemblyReference.cache
+C:\Users\David.Butterworth\OneDrive - Advanced\Documents\Eye Helper\obj\Debug\Eye_Helper.EyeHelper.resources
+C:\Users\David.Butterworth\OneDrive - Advanced\Documents\Eye Helper\obj\Debug\Eye_Helper.Properties.Resources.resources
+C:\Users\David.Butterworth\OneDrive - Advanced\Documents\Eye Helper\obj\Debug\Eye Helper.csproj.GenerateResource.cache
+C:\Users\David.Butterworth\OneDrive - Advanced\Documents\Eye Helper\obj\Debug\Eye Helper.csproj.CoreCompileInputs.cache
+C:\Users\David.Butterworth\OneDrive - Advanced\Documents\Eye Helper\obj\Debug\Eye Helper.exe
+C:\Users\David.Butterworth\OneDrive - Advanced\Documents\Eye Helper\obj\Debug\Eye Helper.pdb
